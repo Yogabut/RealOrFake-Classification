@@ -1,6 +1,6 @@
-# 📰 Real or Fake News Classification using LSTM
+# 📰 Real or Fake News Classification
 
-This project aims to classify news articles as **Real** or **Fake** using a deep learning model based on **Long Short-Term Memory (LSTM)**, a type of recurrent neural network (RNN) well-suited for natural language processing tasks.
+This project aims to classify news articles as **Real** or **Fake** using a deep learning model based on **Long Short-Term Memory (LSTM), Naive Baiyes**, a type of recurrent neural network (RNN) well-suited for natural language processing tasks.
 
 ## 📌 Overview
 
